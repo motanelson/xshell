@@ -1,2 +1,2 @@
-# 2026
-year 2026
+# xshell
+python x shell a bitmap load picture id areas
